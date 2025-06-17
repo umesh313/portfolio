@@ -9,7 +9,7 @@ const Projects = () => {
       id: 1,
       title: 'Weathora',
       description: 'A responsive weather application with real-time data and beautiful UI.',
-      image: 'src/images/weathora.png',
+      image: 'portfolio/src/images/weathora.png',
       tech: ['React', 'TailwindCSS', 'Weather API'],
       category: 'React',
       demo: 'https://weathora-puce.vercel.app',
