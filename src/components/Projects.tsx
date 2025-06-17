@@ -19,7 +19,7 @@ const Projects = () => {
       id: 2,
       title: 'Jokify',
       description: 'Fun jokes application to brighten your day with humor and entertainment.',
-      image: '/src/images/Jokify.png',
+      image: 'Jokify.png',
       tech: ['React', 'JavaScript', 'Jokes API'],
       category: 'React',
       demo: 'https://jokify-fun.vercel.app/',
