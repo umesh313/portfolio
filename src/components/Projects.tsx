@@ -35,16 +35,16 @@ const Projects = () => {
       demo: 'https://briefd-news.vercel.app/',
       github: '#'
     },
-    {
-      id: 4,
-      title: 'AI Chat Bot',
-      description: 'Intelligent chatbot with prompt engineering and natural language processing.',
-      image: '/lovable-uploads/photo-1488590528505-98d2b5aba04b',
-      tech: ['Python', 'AI/ML', 'Prompt Engineering'],
-      category: 'AI',
-      demo: '#',
-      github: '#'
-    },
+    // {
+    //   id: 4,
+    //   title: 'AI Chat Bot',
+    //   description: 'Intelligent chatbot with prompt engineering and natural language processing.',
+    //   image: '/lovable-uploads/photo-1488590528505-98d2b5aba04b',
+    //   tech: ['Python', 'AI/ML', 'Prompt Engineering'],
+    //   category: 'AI',
+    //   demo: '#',
+    //   github: '#'
+    // },
     // {
     //   id: 5,
     //   title: 'E-commerce Dashboard',
